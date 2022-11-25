@@ -5,6 +5,6 @@ The point of this program is making sure my computer won't go to sleep for being
 
 ## Setup
 You will need to install PyAutoGUI. You can do this by running:  python3 -m pip install pyautogui
-[PyAutoGUI installation](https://pyautogui.readthedocs.io/en/latest/install.html)
-[PyAutoGUI documentation](https://pyautogui.readthedocs.io/en/latest/)
+* [PyAutoGUI installation](https://pyautogui.readthedocs.io/en/latest/install.html)
+* [PyAutoGUI documentation](https://pyautogui.readthedocs.io/en/latest/)
 
