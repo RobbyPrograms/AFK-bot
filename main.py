@@ -1,4 +1,5 @@
 import random, time
+import pyautogui as pag
 
 curr_cords = pag.position()
 afk_counter = 0                # counts how long we've been afk
